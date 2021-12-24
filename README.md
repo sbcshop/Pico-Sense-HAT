@@ -34,6 +34,6 @@
  
  
  
- ####Now save the all the libraries inside the raspberry pi pico and rename the pico_sense_hat.py to main.py and save this also inside pico. 
-     (main.py code automatically run when pico power on)
+ ###Now save the all the libraries inside the raspberry pi pico and rename the pico_sense_hat.py to main.py and save this also inside pico. 
+ ###(main.py code automatically run when pico power on)
 
