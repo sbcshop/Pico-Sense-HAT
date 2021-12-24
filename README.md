@@ -25,7 +25,7 @@
    * <b> pico_sense_hat.py
  
  
- <b> For Board 1 </b>
+## For Board 1 </b>
 
 * Stack Raspberry Pi Pico on both boards.
 * Now connect USB Cable on USB Port of Pico 1.
