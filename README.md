@@ -2,7 +2,7 @@
 
 
 
-## About the porduct
+## About the product
 * Pico sense hat have four sensors and these sensors have definate addresses
  * SGP40 Air quality sensor(addr=0x59)
  * SHT31 Temperature and Humidity sensor (addr=0x45)
