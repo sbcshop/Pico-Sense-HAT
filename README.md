@@ -12,8 +12,9 @@
  
 ## Files in the folder
 ### In folder you see 6 files (except reabme.md file)
-* <b>There are 4 libraries in this folder you need to save these libraries in the raspberry pi pico
+* <b>There are 5 libraries in this folder you need to save these libraries in the raspberry pi pico(4 of sensors and 1 of lcd display)
   * <b> sgp40.py 
   * <b> sht31.py
   * <b> bme280.py
   * <b> tcs34725.py
+  * <b> Lcd1_14driver.py
