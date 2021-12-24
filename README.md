@@ -20,5 +20,6 @@
   * <b> tcs34725.py
   * <b> Lcd1_14driver.py
  
-* <b> One file is there in the folder which run the main code, in this code i import all the libraries of sensors and lcd display,
-   * <b> pico_sense_hat
+* <b> One file is there in the folder which run the main code (this code display the sensor treading),
+      in this code import all the libraries of sensors and lcd display,
+   * <b> pico_sense_hat.py
