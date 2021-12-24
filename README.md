@@ -10,5 +10,5 @@
   * TCS34725 Color sensor (addr=0x29)
  
  ## Files in the folder
- * In folder you see 6 files (except reabme.md)
+ * In folder you see 6 files (except reabme.md file)
    *
