@@ -34,9 +34,9 @@
  
  
  
- ### Now save the all the libraries inside the raspberry pi pico 
+ #### Now save the all the libraries inside the raspberry pi pico 
  <img src= "https://github.com/sbcshop/Pico-Sense-HAT/blob/main/Images/img2.jpg" />
  
-  ###Rename the pico_sense_hat.py to main.py and save this also inside pico (main.py code automatically run when pico power on)
+ ###Rename the pico_sense_hat.py to main.py and save this also inside pico (main.py code automatically run when pico power on)
  
  <img src= "https://github.com/sbcshop/Pico-Sense-HAT/blob/main/Images/img1.jpg" />
