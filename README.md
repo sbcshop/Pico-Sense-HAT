@@ -31,4 +31,6 @@
 * Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico).
 
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
+ 
+ Now save the all the libraries inside the raspberry pi pico and rename the pico_sense_hat.py to main.py and save this also inside pico 
 
