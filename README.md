@@ -20,4 +20,5 @@
   * <b> tcs34725.py
   * <b> Lcd1_14driver.py
  
-* <b> pico_sense_hat
+* <b> One file is there in the folder which run the main code, in this code i import all the libraries in this folder,
+      this file also have lcd display code npico_sense_hat
