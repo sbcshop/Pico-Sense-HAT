@@ -11,7 +11,7 @@
  
  ## Files in the folder
  ### In folder you see 6 files (except reabme.md file)
-   *There are 4 libraries in this folder you need to save these libraries in the raspberry pi pico
+ *There are 4 libraries in this folder you need to save these libraries in the raspberry pi pico
      *sgp40.py 
      *sht31.py
      *bme280.py
