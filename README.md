@@ -9,6 +9,7 @@
   * BME280 Pressure sensor (0x76)
   * TCS34725 Color sensor (addr=0x29)
  
+ 
 ## Files in the folder
 ### In folder you see 6 files (except reabme.md file)
 *There are 4 libraries in this folder you need to save these libraries in the raspberry pi pico
