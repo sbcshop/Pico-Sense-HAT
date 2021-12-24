@@ -41,3 +41,7 @@
 ### Rename the pico_sense_hat.py to main.py and save this also inside pico (main.py code automatically run when pico power on)
  
 <img src= "https://github.com/sbcshop/Pico-Sense-HAT/blob/main/Images/img1.jpg" />
+ 
+ # Working
+ <img src= "https://github.com/sbcshop/Pico-Sense-HAT/blob/main/Images/img4.jpg" />
+ 
