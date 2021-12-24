@@ -25,9 +25,7 @@
    * <b> pico_sense_hat.py
  
  
-## For Board 1 </b>
-
-* Stack Raspberry Pi Pico on both boards.
+## For setup the Board in thonny </b>
 * Now connect USB Cable on USB Port of Pico 1.
 * Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico).
 
