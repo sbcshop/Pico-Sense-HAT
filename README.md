@@ -19,3 +19,5 @@
   * <b> bme280.py
   * <b> tcs34725.py
   * <b> Lcd1_14driver.py
+ 
+* <b> pico_sense_hat
