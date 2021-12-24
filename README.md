@@ -25,6 +25,7 @@
    * <b> pico_sense_hat.py
  
  
+ 
 ## For setup the Board in thonny </b>
 * Now connect USB Cable on USB Port of Pico 1.
 * Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico).
