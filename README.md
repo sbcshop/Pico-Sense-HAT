@@ -44,4 +44,6 @@
  
  # Working
  <img src= "https://github.com/sbcshop/Pico-Sense-HAT/blob/main/Images/img4.jpg" />
+
+### <a href="https://learn.sb-components.co.uk/Pico-Sense-HAT" > Pico Sense HAT Wiki Portal </a>
  
