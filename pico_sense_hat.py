@@ -30,9 +30,9 @@ def info():
     LCD.text("COLOR       :",10,110,LCD.red)
     
 while True:
-    #temp,hum,press = bme.temperature,bme.humidity,bme.pressure
+    #temp,hum,press = bme.temperature,bme.humidity,bme.pressure #uncomment this line for use of temperature and humidity
     info()
-    pressure = bme.pressure
+    pressure = bme.pressure # we use only pressure from BME sensor, you can also read temperature and humidity as ewll
     Temp_Humid = temp_hum.get_temp_humi()
     Temp_Humid = list(Temp_Humid)
     Air_quality = air_quality.measure_raw()
