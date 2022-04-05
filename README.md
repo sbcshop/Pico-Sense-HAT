@@ -47,3 +47,7 @@
 
 ### <a href="https://learn.sb-components.co.uk/Pico-Sense-HAT" > Pico Sense HAT Wiki Portal </a>
  
+## Pico Sence HAT Getting Started
+ 
+https://www.youtube.com/watch?v=j3DhHOlqDR0
+ 
