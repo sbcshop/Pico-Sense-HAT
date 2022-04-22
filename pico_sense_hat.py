@@ -47,6 +47,27 @@ while True:
     print("Air quality = ",Air_quality)
     print("Color = ",Color)#R,G,B,C
     
+    '''
+    # **** uncomment this if you need temperature in fahrenheit ********
+    
+    fahrenheit = float(Temp_Humid[0]) * 1.8 + 32
+    fahrenheit = "{:.2f}".format(fahrenheit)
+    print("Temperature in fahrenheit  = ",fahrenheit)
+    '''
+
+    '''
+    # **** uncomment this if you need pressure in psi, mmhg and atm ********
+
+    press = pressure.split('h')
+    kpa = float(press[0]) * 10
+    psi = kpa / 6.89475729
+    mmhg = kpa * 760 / 101.325
+    atm = kpa / 101.325
+    print("Pounds per square inch: %.2f psi"  % (psi))
+    print("Millimeter of mercury: %.2f mmHg" % (mmhg))
+    print("Atmosphere pressure: %.2f atm." % (atm))
+    '''
+    
     LCD.text(pressure, 120,50,LCD.blue)# print on tft screen
     LCD.text(str(temperature), 120,65,LCD.blue)# print on tft screen
     LCD.text(str(humidity), 120,80,LCD.blue)# print on tft screen
