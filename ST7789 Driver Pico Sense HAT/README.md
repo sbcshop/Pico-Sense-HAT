@@ -5,7 +5,7 @@
  * The driver's library is provided as a single firmware.uf2 file, which is accessible here:
     https://github.com/russhughes/st7789_mpy/tree/master/firmware/RP2
     
- * Holding down the Pico's BOTSEL button while dragging this file into the mounted RP2 folder will allow you to load it.
+ * Holding down the Pico's BOTSEL button while dragging this file into the mounted RP2 folder will allow you to load it(firmware.uf2).
 
 ## <b>There are 4 libraries(sensors library) in this folder you need to save these libraries in the raspberry pi pico,
   * <b> sgp40.py 
