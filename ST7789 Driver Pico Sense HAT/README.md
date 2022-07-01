@@ -13,3 +13,5 @@
   * <b> sht31.py
   * <b> bme280.py
   * <b> tcs34725.py
+
+Run this file "pico_sense_hat_st7789.py"
