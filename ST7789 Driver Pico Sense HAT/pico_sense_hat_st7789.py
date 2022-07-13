@@ -4,10 +4,7 @@ from sgp40 import SGP40
 import bme280
 import tcs34725
 import sht31
-import Lcd1_14driver#lcd driver
 import st7789
-LCD = Lcd1_14driver.Lcd1_14()
-LCD.fill(LCD.white) 
 import vga1_bold_16x32 as font
 import vga1_8x16 as font1
 
